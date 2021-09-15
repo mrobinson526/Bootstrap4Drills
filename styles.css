@@ -2,10 +2,7 @@
     background-color: rgb(184, 184, 187);
     height: 500px;
 }
-.border {
-    border-primary;
-}
 
 .p-3 {
-    padding: $spacer !important;
+    padding: $spacer !important
   }
